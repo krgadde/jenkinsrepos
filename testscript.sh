@@ -4,5 +4,5 @@
 echo "This script push to github"
 NUMBER=$(($NUMBERONE + $NUMBERTWO))
 echo $NUMBER
-echo "This is complete"
+#echo "This is complete"
 echo "This was run automatically" 
