@@ -4,6 +4,5 @@
 echo "This script push to github"
 NUMBER=$(($NUMBERONE + $NUMBERTWO))
 echo $NUMBER
-echo "Karunakar Test"
+echo "Karunakar cloud Test"
 echo "This was run automatically" 
-echo " This is added as per cloud"
